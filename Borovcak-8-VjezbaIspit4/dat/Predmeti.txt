@@ -1,0 +1,72 @@
+1
+PR5543
+Programiranje u jeziku Java
+6
+1
+635142
+2
+PR2343
+Web aplikacije u Javi
+7
+2
+65874
+3
+PR4633
+Arhitekture informacijskih sustava
+5
+10
+631019
+4
+PR9845
+ASP web programiranje
+5
+6
+6312
+5
+PR553
+PHP web programiranje
+4
+8
+58109
+6
+PR7474
+Napredno web programiranje
+5
+3
+3579
+7
+PR227
+Distribuirane baze podataka
+5
+9
+8142
+8
+PR054
+Sustavi za upravljanje bazama podataka
+6
+4
+67
+9
+PR367
+Mobilne aplikacije
+4
+5
+582
+10
+PR8746
+Primjena objektnog programiranja
+5
+7
+68109
+11
+PR123456
+Novo programiranje
+4
+9
+109
+12
+PR47
+Procesi
+3
+3
+59

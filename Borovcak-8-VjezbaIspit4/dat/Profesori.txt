@@ -1,0 +1,55 @@
+1
+Slaven
+Perko
+P5567
+Viši predavač
+2
+Dragica
+Dragicevic
+P9878
+Profesor visoke škole
+3
+Janica
+Petrovic
+P675
+Magistar
+4
+Mario
+Ivanović
+P23424
+Profesor
+5
+Ivan
+Župan
+P77
+Specijalist
+6
+Andrija
+Filipović
+P533
+Profesor
+7
+Andro
+Košar
+P876
+Profesor
+8
+Zvonko
+Kasun
+P743
+Asistent
+9
+Anja
+Bogdanović
+P926
+Magistar
+10
+Marko
+Dragović
+P509
+Viši predavač
+11
+Mario
+Pavše
+P1251
+dr.mr.sc.hz.mz Java

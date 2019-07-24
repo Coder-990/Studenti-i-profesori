@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.java.vjezbe.MainMenuController">
+   <children>
+      <MenuBar maxHeight="-Infinity" maxWidth="-Infinity">
+        <menus>
+          <Menu mnemonicParsing="false" text="Profesor">
+            <items>
+              <MenuItem fx:id="pretragaProfesora" mnemonicParsing="false" onAction="#borderPaneProfesor" text="Pretraga profesora" />
+                  <MenuItem fx:id="unosProfesora" mnemonicParsing="false" onAction="#borderPaneUnesiProfesora" text="Unos profesora" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Student">
+            <items>
+              <MenuItem fx:id="pretragaStudenta" mnemonicParsing="false" onAction="#borderPaneStudent" text="Pretraga studenta" />
+                  <MenuItem fx:id="unosStudenta" mnemonicParsing="false" onAction="#borderPaneUnesiStudenta" text="Unos studenta" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Predmet">
+            <items>
+              <MenuItem fx:id="pretragaPredmeta" mnemonicParsing="false" onAction="#borderPanePredmet" text="Pretraga predmeta" />
+                  <MenuItem fx:id="unosPredmeta" mnemonicParsing="false" onAction="#borderPaneUnesiPredmet" text="Unos predmeta" />
+            </items>
+          </Menu>
+            <Menu mnemonicParsing="false" text="Ispit">
+               <items>
+                  <MenuItem fx:id="pretragaIspita" mnemonicParsing="false" onAction="#borderPaneIspit" text="Pretraga ispita" />
+                  <MenuItem fx:id="unosIspita" mnemonicParsing="false" onAction="#borderPaneUnesiIspit" text="Unos ispita" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Komisijski Ispit">
+               <items>
+                  <MenuItem fx:id="pretragaKomisijskogIspita" mnemonicParsing="false" onAction="#borderPaneKomisijskiIspit" text="Pretraga komisijskog ispita" />
+                  <MenuItem fx:id="unosKomisijskogIspita" mnemonicParsing="false" onAction="#borderPaneUnesiKomisijskiIspit" text="Unos komisijskog ispita" />
+               </items>
+            </Menu>
+        </menus>
+      </MenuBar>
+      <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="600.0" />
+   </children>
+</VBox>
